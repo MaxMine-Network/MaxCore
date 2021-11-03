@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="core2">
+    <output-path>$USER_HOME$/Desktop/MaxServers/core</output-path>
+    <root id="archive" name="core2.jar">
+      <element id="module-output" name="MaxCore" />
+      <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:3.0.2" />
+      <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.5" />
+      <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.2.0" />
+      <element id="library" level="project" name="Maven: com.google.guava:failureaccess:1.0" />
+      <element id="library" level="project" name="Maven: com.google.guava:guava:27.0-jre" />
+      <element id="library" level="project" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />
+      <element id="library" level="project" name="Maven: com.google.j2objc:j2objc-annotations:1.1" />
+      <element id="library" level="project" name="Maven: commons-io:commons-io:2.6" />
+      <element id="library" level="project" name="Maven: io.netty:netty-all:4.1.32.Final" />
+      <element id="library" level="project" name="Maven: jline:jline:2.12" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.47" />
+      <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:2.5.2" />
+      <element id="library" level="project" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.17" />
+      <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.23" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
